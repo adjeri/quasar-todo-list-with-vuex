@@ -1,4 +1,4 @@
-# Quasar App (quasar-todo)
+# Quasar App (todo-list with vuex)
 
 A Quasar application for a manage a todo list (add, edit, delete a task).
 It uses Vuex, reusable components, update & sync

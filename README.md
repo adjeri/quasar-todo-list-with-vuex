@@ -1,6 +1,7 @@
 # Quasar App (quasar-todo)
 
-A Quasar application for a todo list
+A Quasar application for a manage a todo list (add, edit, delete a task).
+It uses Vuex, reusable components, update & sync
 
 ## Install the dependencies
 ```bash

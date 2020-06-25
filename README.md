@@ -1,7 +1,10 @@
 # Quasar App (todo-list with vuex)
 
 A Quasar application for a manage a todo list (add, edit, delete a task).
+
 It uses Vuex, reusable components, update & sync
+
+Build iOS, Android, PWA, web, Mac, Windows apps with the same codebase
 
 ## Install the dependencies
 ```bash
